@@ -1,3 +1,6 @@
+![logo](https://github.com/mdtamimjd/mdtamimjd/blob/main/logo.jpg)
+</br>
+</br>
 <h1 align="center">Hi 👋, I'm Md Tamim</h1>
 <h3 align="center">A passionate frontend and MERN Stack developer from Bangladesh.</h3>
 
